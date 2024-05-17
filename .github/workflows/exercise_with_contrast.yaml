@@ -1,9 +1,9 @@
-name: Run WebGoat with Contrast
+name: Run PetClinic with Contrast
 
 on: [push]
 
 jobs:
-  run-webgoat:
+  run-petclinic:
     runs-on: ubuntu-latest
 
     steps:

@@ -51,5 +51,5 @@ jobs:
 
     - name: Exercise PetClinic
       run: |
-        sleep 30 # Wait for WebGoat to start
+        sleep 15 # Wait for WebGoat to start
         npx playwright test
